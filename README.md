@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Solution URL: [https://github.com/PiojoPringlense/news-homepage](https://github.com/PiojoPringlense/news-homepage)
+-  Live Site URL: [https://news-homepage-tau-blush.vercel.app/](https://news-homepage-tau-blush.vercel.app/)
 
 ## My process
 
